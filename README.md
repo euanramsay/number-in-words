@@ -13,8 +13,8 @@ When prompted enter the number of numbers you would like.
 
 ## Run unit tests
 
-Run `yarn test` to start the unit tests.
-Run `yarn test:watch` to run tests in watch mode.
+Run `yarn test` to start the unit tests.  
+Run `yarn test:watch` to run tests in watch mode.  
 Run `yarn test:mutate` to run mutation tests.
 
 ## Build the application
