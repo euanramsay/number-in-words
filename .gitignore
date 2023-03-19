@@ -1,0 +1,8 @@
+dist/
+node_modules/
+coverage/
+reports/
+*.log
+.DS_Store
+.vscode/
+.stryker-tmp
